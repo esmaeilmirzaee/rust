@@ -9,3 +9,4 @@
 5. String
 6. Constants
 7. Operators
+8. Functions
