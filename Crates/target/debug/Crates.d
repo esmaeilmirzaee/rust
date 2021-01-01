@@ -1,0 +1,1 @@
+/Volumes/TheBeaver-32G/code/lab/back/rust/rustlang_the_complete_beginners_guide/Crates/target/debug/Crates: /Volumes/TheBeaver-32G/code/lab/back/rust/rustlang_the_complete_beginners_guide/Crates/src/archive.rs /Volumes/TheBeaver-32G/code/lab/back/rust/rustlang_the_complete_beginners_guide/Crates/src/main.rs
