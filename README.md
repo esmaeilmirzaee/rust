@@ -4,4 +4,5 @@
 ### Introduction
 1. Reading user's input
 2. Print messages in different ways
-3. Vriables
+3. Variables
+4. Scalar types
