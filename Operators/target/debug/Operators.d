@@ -1,0 +1,1 @@
+/Volumes/TheBeaver-32G/code/lab/back/rust/rustlang_the_complete_beginners_guide/Operators/target/debug/Operators: /Volumes/TheBeaver-32G/code/lab/back/rust/rustlang_the_complete_beginners_guide/Operators/src/main.rs

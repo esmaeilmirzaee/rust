@@ -8,3 +8,4 @@
 4. Scalar types
 5. String
 6. Constants
+7. Operators
