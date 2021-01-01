@@ -4,4 +4,4 @@
 ### Introduction
 1. Reading user's input
 2. Print messages in different ways
-3. 
+3. Vriables
