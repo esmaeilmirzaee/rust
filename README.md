@@ -7,3 +7,4 @@
 3. Variables
 4. Scalar types
 5. String
+6. Constants
