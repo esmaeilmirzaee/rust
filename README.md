@@ -13,3 +13,5 @@
 9. Modules
 10. Crates
 11. Random
+12. Arrays
+13. Vectors
